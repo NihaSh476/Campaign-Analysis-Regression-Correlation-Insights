@@ -1,4 +1,4 @@
-# 📊 Campaign Analytics: Regression & Correlation Insights
+# 📊 Campaign Analysis: Regression & Correlation Insights
 **Focus Areas**: Marketing Strategy Optimization | Linear Regression | ROI Analysis
 
 **Tech Stack**: Python (Jupyter Notebook), pandas, scikit-learn, matplotlib, seaborn
